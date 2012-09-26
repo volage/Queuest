@@ -1,4 +1,4 @@
 Queuest
 =======
 
-Make your own queue of qwests
+Make your own queue of quests
