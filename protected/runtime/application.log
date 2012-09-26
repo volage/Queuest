@@ -1,0 +1,257 @@
+2012/09/02 19:53:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2012/09/02 20:04:44 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/gii/GiiModule.php:169
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(264): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2012/09/02 20:04:56 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/gii/GiiModule.php:169
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(264): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2012/09/02 20:05:01 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/gii/GiiModule.php:169
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(264): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2012/09/02 20:05:53 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/gii/GiiModule.php:169
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(264): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2012/09/02 20:06:28 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/gii/GiiModule.php:169
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(264): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2012/09/02 20:07:01 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/gii/GiiModule.php:169
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(264): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('gii')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2012/09/02 20:46:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('user')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=user
+---
+2012/09/02 20:46:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('user')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=user
+---
+2012/09/02 20:47:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('user')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=user
+---
+2012/09/02 20:49:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('user')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=user
+---
+2012/09/02 20:52:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "admin".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('admin')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('admin')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('user/admin')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=user/admin
+---
+2012/09/02 20:58:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "admin".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('admin')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('admin')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('user/admin')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=user/admin
+---
+2012/09/02 20:58:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "tester1".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('tester1')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('tester1')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('user/tester1')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=user/tester1
+---
+2012/09/02 20:58:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('user')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=user
+---
+2012/09/02 20:59:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "admin".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('admin')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('admin')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('user/admin')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=user/admin
+---
+2012/09/02 20:59:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('user')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=user
+---
+2012/09/02 21:00:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('user')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=user
+---
+2012/09/02 21:00:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('user')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=user
+---
+2012/09/02 21:45:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('login')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('login')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('user/login')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=user/login
+---
+2012/09/02 21:45:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('login')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('login')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('user/login')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=user/login
+---
+2012/09/02 21:56:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "queust".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2012/09/02 22:02:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "queust".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2012/09/02 22:03:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "queuest".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2012/09/02 22:03:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:484
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(271): CController->missingAction('')
+#1 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/
+---
+2012/09/26 17:33:27 [error] [exception.CException] exception 'CException' with message 'QuestController cannot find the requested view "index".' in /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php:879
+Stack trace:
+#0 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(783): CController->renderPartial('index', NULL, true)
+#1 /home/gramovic/public_html/queuest/protected/controllers/QuestController.php(16): CController->render('index')
+#2 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/actions/CInlineAction.php(50): QuestController->actionIndex()
+#3 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#4 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#5 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(283): CController->run('')
+#7 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/web/CWebApplication.php(142): CWebApplication->runController('')
+#8 /home/gramovic/public_html/queuest/yii-1.1.12.b600af/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#9 /home/gramovic/public_html/queuest/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/
+---
